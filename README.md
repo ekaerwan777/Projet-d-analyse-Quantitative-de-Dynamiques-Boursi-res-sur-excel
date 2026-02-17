@@ -12,7 +12,7 @@ L’objectif est de caractériser leurs comportements respectifs à travers une 
 * Une analyse **journalière** de la volatilité et des tendances.
 * Une analyse **intraday** de l’instabilité directionnelle au sein d’une séance.
 
-L’étude repose exclusivement sur les données contenues dans les fichiers Excel fournis. Aucune donnée externe n’a été ajoutée.
+L’étude repose exclusivement sur les données contenues dans les fichiers Excel fournis extraits sur Bloomberg. Aucune donnée externe n’a été ajoutée.
 
 ---
 
