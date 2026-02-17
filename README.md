@@ -128,10 +128,3 @@ La répartition des changements selon les quintiles de la séance permet d’ide
 Projet académique d’analyse quantitative à visée exploratoire.
 Ce travail illustre une capacité à structurer, analyser et interpréter des données financières multi-échelles avec rigueur méthodologique.
 
----
-
-Si tu veux, je peux maintenant :
-
-* Te proposer une version plus orientée **finance de marché / quant**
-* Ou une version plus orientée **data science / analytique**
-* Ou optimiser le README pour qu’il soit percutant pour un recruteur spécifique (finance, data, consulting, etc.)
